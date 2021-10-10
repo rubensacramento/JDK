@@ -23,4 +23,4 @@ Java Development Kit (JDK) es un software que nos permite crear programas en Jav
 1er Paso: Lo primero que debemos hacer es actualizar el sistema, abrimos nuestro terminal de Linux, para ello presionamos las teclas (Ctrl + Alt + T) y escribimos lo siguiente:  
   - <b>sudo apt-get update</b> <br>
   
-  <img src="paso3.png" alt="images" height="50%" width="50%"> <br>
+  <img src="paso3.png" alt="image" height="50%" width="50%"> <br>
